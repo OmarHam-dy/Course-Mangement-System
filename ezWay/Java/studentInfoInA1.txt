@@ -1,0 +1,9 @@
+#Student number (01) 
+#NAME : Omar Hamdy.
+#GENDER : Male.
+AGE : 20.
+FACULTY  : Engineering.
+EMAIL : omar@gmail.com.
+ID : 0.
+DEGREES IN EXAMS : 
+Final  : 3OUT OF3.
